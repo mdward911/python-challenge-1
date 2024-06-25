@@ -1,5 +1,4 @@
-# Food Truck Ordering System
-
+# Food Truck Menu
 This Python script simulates an ordering system for a food truck. Customers can choose from various menus and select items to order.
 
 ## Features
